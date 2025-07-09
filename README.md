@@ -1,4 +1,4 @@
-# anndata2ri
+# anndata2sce
 Bash script for converting anndata to single cell experiment
 
 # Prequistics: 
