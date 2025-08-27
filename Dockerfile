@@ -19,7 +19,11 @@ RUN mamba create -n anndata2ri-env -c conda-forge -c bioconda \
     numpy \
     scipy \
     scanpy \
+    loompy \
     r-base \
+    r-seurat \
+    r-seuratdisk \
+    r-loom \
     bioconductor-singlecellexperiment \
     r-biocmanager \
     jupyter \
